@@ -15,7 +15,11 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
 import kotlin.coroutines.CoroutineContext
 
-
+/***
+ * Created By Amir Fury on April 6 2021
+ *
+ * Email: Fury.amir93@gmail.com
+ * */
 
 abstract class BaseActivity<B : ViewDataBinding> : AppCompatActivity(), CoroutineScope {
 

@@ -1,5 +1,11 @@
 package com.example.jacksoncollection.base.domain.network.remote
 
+
+/***
+ * Created By Amir Fury on April 6 2021
+ *
+ * Email: Fury.amir93@gmail.com
+ * */
 data class Resource<out T> (val status: Status, val data : T?, val message : String?){
     companion object{
         fun <T> success(data : T?) : Resource<T> {

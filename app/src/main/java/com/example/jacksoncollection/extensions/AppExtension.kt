@@ -11,6 +11,12 @@ import com.google.gson.reflect.TypeToken
 import java.text.SimpleDateFormat
 import java.util.*
 
+/***
+ * Created By Amir Fury on April 6 2021
+ *
+ * Email: Fury.amir93@gmail.com
+ * */
+
 inline fun <reified T> Gson.fromJson(json: String) =
     this.fromJson<T>(json, object : TypeToken<T>() {}.type)
 

@@ -17,6 +17,13 @@ import org.kodein.di.KodeinAware
 import org.kodein.di.android.kodein
 import org.kodein.di.generic.instance
 
+
+/***
+ * Created By Amir Fury on April 6 2021
+ *
+ * Email: Fury.amir93@gmail.com
+ * */
+
 class HomeActivity : BaseActivity<ActivityHomeBinding>(), KodeinAware {
 
     override val kodein: Kodein by kodein()

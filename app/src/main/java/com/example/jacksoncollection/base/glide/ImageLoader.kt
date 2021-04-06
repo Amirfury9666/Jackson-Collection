@@ -6,6 +6,12 @@ import com.bumptech.glide.Glide
 import com.example.jacksoncollection.R
 
 
+/***
+ * Created By Amir Fury on April 6 2021
+ *
+ * Email: Fury.amir93@gmail.com
+ * */
+
 @BindingAdapter("loadImage")
 fun ImageView.loadImage(imageUrl: String?) {
     imageUrl?.let {

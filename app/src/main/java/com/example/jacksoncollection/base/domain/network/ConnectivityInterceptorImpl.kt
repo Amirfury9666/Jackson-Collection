@@ -7,6 +7,12 @@ import com.example.jacksoncollection.exceptions.NoInternetException
 import okhttp3.Interceptor
 import okhttp3.Response
 
+/***
+ * Created By Amir Fury on April 6 2021
+ *
+ * Email: Fury.amir93@gmail.com
+ * */
+
 class ConnectivityInterceptorImpl(private val context: Context) : ConnectivityInterceptor {
     override fun intercept(chain: Interceptor.Chain): Response {
         if (!isOnline()) {

@@ -9,6 +9,12 @@ import com.example.jacksoncollection.base.domain.response.Album
 import com.example.jacksoncollection.databinding.ItemAlbumBinding
 import com.example.jacksoncollection.listener.IItemClickListener
 
+/***
+ * Created By Amir Fury on April 6 2021
+ *
+ * Email: Fury.amir93@gmail.com
+ * */
+
 class AlbumsAdapter :
     ListAdapter<Album, RecyclerView.ViewHolder>(AlbumsDiffCallBack()) {
 

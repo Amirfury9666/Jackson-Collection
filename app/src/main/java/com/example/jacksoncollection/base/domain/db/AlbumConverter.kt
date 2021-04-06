@@ -6,6 +6,11 @@ import com.example.jacksoncollection.extensions.fromJson
 import com.example.jacksoncollection.extensions.json
 import com.google.gson.Gson
 
+/***
+ * Created By Amir Fury on April 6 2021
+ *
+ * Email: Fury.amir93@gmail.com
+ * */
 class AlbumConverter {
 
     @TypeConverter

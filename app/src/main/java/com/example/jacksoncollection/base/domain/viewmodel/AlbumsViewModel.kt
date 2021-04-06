@@ -10,6 +10,12 @@ import com.example.jacksoncollection.base.domain.repository.AlbumsRepository
 import com.example.jacksoncollection.base.domain.response.JacksonCollectionResponse
 import kotlinx.coroutines.launch
 
+/***
+ * Created By Amir Fury on April 6 2021
+ *
+ * Email: Fury.amir93@gmail.com
+ * */
+
 class AlbumsViewModel(private val repository: AlbumsRepository) : ViewModel() {
 
     fun fetchAlbums(): LiveData<Resource<JacksonCollectionResponse>> {

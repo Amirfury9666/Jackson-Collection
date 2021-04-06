@@ -7,6 +7,12 @@ import com.example.jacksoncollection.base.core.BaseActivity
 import com.example.jacksoncollection.base.domain.response.Album
 import com.example.jacksoncollection.databinding.ActivityAlbumDetailsBinding
 
+/***
+ * Created By Amir Fury on April 6 2021
+ *
+ * Email: Fury.amir93@gmail.com
+ * */
+
 class AlbumDetailsActivity : BaseActivity<ActivityAlbumDetailsBinding>() {
 
     override val layoutRes: Int get() = R.layout.activity_album_details

@@ -10,7 +10,34 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5373afe6-fd47-46b5-990d-2145cb21e199" name="Default Changelist" comment="" />
+    <list default="true" id="5373afe6-fd47-46b5-990d-2145cb21e199" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/adapter/AlbumsAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/adapter/AlbumsAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/core/BaseActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/core/BaseActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/core/JacksonCollectionApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/core/JacksonCollectionApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/core/ViewModelFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/core/ViewModelFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/db/AlbumConverter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/db/AlbumConverter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/db/AlbumEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/db/AlbumEntity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/db/AlbumsDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/db/AlbumsDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/db/AlbumsDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/db/AlbumsDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/network/ApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/network/ApiService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/network/ConnectivityInterceptor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/network/ConnectivityInterceptor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/network/ConnectivityInterceptorImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/network/ConnectivityInterceptorImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/network/ServiceCreator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/network/ServiceCreator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/network/remote/Resource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/network/remote/Resource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/network/remote/SafeApiRequest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/network/remote/SafeApiRequest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/network/remote/Status.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/network/remote/Status.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/repository/AlbumsRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/repository/AlbumsRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/repository/AlbumsRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/repository/AlbumsRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/viewmodel/AlbumsViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/domain/viewmodel/AlbumsViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/glide/ImageLoader.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/base/glide/ImageLoader.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/exceptions/Exceptions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/exceptions/Exceptions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/extensions/AppExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/extensions/AppExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/listener/IItemClickListener.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/ui/AlbumDetailsActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/ui/AlbumDetailsActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/ui/HomeActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/ui/HomeActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/utils/ApiUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/utils/ApiUtils.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,6 +184,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="245" y="169" key="#PSD" timestamp="1617690563983">
       <screen x="0" y="23" width="1440" height="821" />
@@ -194,26 +232,26 @@
     </state>
     <state width="430" height="438" key="DebuggerActiveHint/0.23.1440.816@0.23.1440.816" timestamp="1617687405612" />
     <state width="430" height="441" key="DebuggerActiveHint/0.23.1440.821@0.23.1440.821" timestamp="1617687660966" />
-    <state width="1396" height="202" key="GridCell.Tab.0.bottom" timestamp="1617687709325">
+    <state width="1396" height="202" key="GridCell.Tab.0.bottom" timestamp="1617690768879">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1396" height="202" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1617687511700" />
-    <state width="1396" height="202" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1617687709325" />
-    <state width="1396" height="202" key="GridCell.Tab.0.center" timestamp="1617687709324">
+    <state width="1396" height="202" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1617690768879" />
+    <state width="1396" height="202" key="GridCell.Tab.0.center" timestamp="1617690768879">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1396" height="202" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1617687511699" />
-    <state width="1396" height="202" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1617687709324" />
-    <state width="1396" height="202" key="GridCell.Tab.0.left" timestamp="1617687709324">
+    <state width="1396" height="202" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1617690768879" />
+    <state width="1396" height="202" key="GridCell.Tab.0.left" timestamp="1617690768878">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1396" height="202" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1617687511698" />
-    <state width="1396" height="202" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1617687709324" />
-    <state width="1396" height="202" key="GridCell.Tab.0.right" timestamp="1617687709324">
+    <state width="1396" height="202" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1617690768878" />
+    <state width="1396" height="202" key="GridCell.Tab.0.right" timestamp="1617690768879">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1396" height="202" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1617687511699" />
-    <state width="1396" height="202" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1617687709324" />
+    <state width="1396" height="202" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1617690768879" />
     <state width="1396" height="202" key="GridCell.Tab.1.bottom" timestamp="1617687709326">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
@@ -234,22 +272,26 @@
     </state>
     <state width="1396" height="202" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1617687511701" />
     <state width="1396" height="202" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1617687709326" />
-    <state x="459" y="326" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1617690593614">
+    <state x="221" y="69" key="SettingsEditor" timestamp="1617690651797">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="459" y="326" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.821@0.23.1440.821" timestamp="1617690593614" />
-    <state x="385" y="164" width="670" height="681" key="search.everywhere.popup" timestamp="1617689282955">
+    <state x="221" y="69" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1617690651797" />
+    <state x="459" y="326" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1617691064276">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="459" y="326" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.821@0.23.1440.821" timestamp="1617691064276" />
+    <state x="385" y="164" width="670" height="681" key="search.everywhere.popup" timestamp="1617691201981">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="385" y="163" width="670" height="676" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1617686305059" />
-    <state x="385" y="164" width="670" height="681" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1617689282955" />
+    <state x="385" y="164" width="670" height="681" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1617691201981" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-function">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/adapter/AlbumsAdapter.kt</url>
-          <line>34</line>
+          <line>40</line>
           <properties class="com.example.jacksoncollection.adapter.AlbumsAdapter.AlbumsHolder" method="bind">
             <option name="EMULATED" value="true" />
           </properties>
@@ -257,12 +299,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/adapter/AlbumsAdapter.kt</url>
-          <line>35</line>
+          <line>41</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/jacksoncollection/adapter/AlbumsAdapter.kt</url>
-          <line>36</line>
+          <line>42</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>

@@ -5,6 +5,12 @@ import androidx.lifecycle.ViewModelProvider
 import com.example.jacksoncollection.base.domain.repository.AlbumsRepositoryImpl
 import com.example.jacksoncollection.base.domain.viewmodel.AlbumsViewModel
 
+/***
+ * Created By Amir Fury on April 6 2021
+ *
+ * Email: Fury.amir93@gmail.com
+ * */
+
 @Suppress("UNCHECKED_CAST")
 class ViewModelFactory(private val repository: AlbumsRepositoryImpl) :
     ViewModelProvider.NewInstanceFactory() {

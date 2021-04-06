@@ -17,6 +17,11 @@ import org.kodein.di.generic.instance
 import org.kodein.di.generic.provider
 import org.kodein.di.generic.singleton
 
+/***
+ * Created By Amir Fury on April 6 2021
+ *
+ * Email: Fury.amir93@gmail.com
+ * */
 class JacksonCollectionApp : Application(), KodeinAware {
 
     override val kodein = Kodein.lazy {

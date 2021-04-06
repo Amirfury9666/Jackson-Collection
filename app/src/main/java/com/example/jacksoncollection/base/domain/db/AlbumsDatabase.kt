@@ -7,6 +7,12 @@ import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
 import com.example.jacksoncollection.base.domain.response.Album
 
+/***
+ * Created By Amir Fury on April 6 2021
+ *
+ * Email: Fury.amir93@gmail.com
+ * */
+
 @Database(entities = [AlbumEntity::class], version = 1, exportSchema = false)
 @TypeConverters(AlbumConverter::class)
 abstract class AlbumsDatabase : RoomDatabase() {
