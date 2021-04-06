@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="model"
+            type="com.example.jacksoncollection.base.domain.response.Album" />
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="@{model::onItemClick}">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_margin="2.5dp"
+            app:cardBackgroundColor="@color/white"
+            app:cardCornerRadius="@dimen/cardRadius"
+            app:cardElevation="@dimen/cardElevation">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/albumCover"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    app:loadImage="@{model.artworkUrl100}" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/album_shade"
+                    android:orientation="vertical"
+                    android:paddingHorizontal="@dimen/padding8"
+                    android:paddingVertical="@dimen/padding8">
+
+                    <TextView
+                        android:id="@+id/collectionName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:lineSpacingExtra="1dp"
+                        android:maxLines="2"
+                        android:text="@{model.collectionName}"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/textSize14"
+                        tools:text="Honky Tonk Time Machine This is" />
+
+                    <TextView
+                        android:id="@+id/artistName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true"
+                        android:text="@{model.artistName}"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/textSize16"
+                        android:textStyle="bold"
+                        tools:text="J. Randy Taraborrelli" />
+                </LinearLayout>
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+    </RelativeLayout>
+</layout>
+

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/MAC - Data/Trash/JacksonCollection/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_home.xml",
+        "source": "/Volumes/MAC - Data/Trash/JacksonCollection/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Volumes/MAC - Data/Trash/JacksonCollection/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_album.xml",
+        "source": "/Volumes/MAC - Data/Trash/JacksonCollection/app/src/main/res/layout/item_album.xml"
+    },
+    {
+        "merged": "/Volumes/MAC - Data/Trash/JacksonCollection/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_album_details.xml",
+        "source": "/Volumes/MAC - Data/Trash/JacksonCollection/app/src/main/res/layout/activity_album_details.xml"
+    }
+]
