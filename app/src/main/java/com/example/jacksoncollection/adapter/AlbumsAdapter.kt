@@ -7,7 +7,6 @@ import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.example.jacksoncollection.base.domain.response.Album
 import com.example.jacksoncollection.databinding.ItemAlbumBinding
-import com.example.jacksoncollection.listener.IItemClickListener
 
 /***
  * Created By Amir Fury on April 6 2021

@@ -2,6 +2,12 @@ package com.example.jacksoncollection.adapter;
 
 import java.lang.System;
 
+/**
+ * *
+ * Created By Amir Fury on April 6 2021
+ *
+ * Email: Fury.amir93@gmail.com
+ */
 @kotlin.Metadata(mv = {1, 4, 2}, bv = {1, 0, 3}, k = 1, d1 = {"\u0000,\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0010\u0002\n\u0002\b\u0002\n\u0002\u0010\b\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\b\u0004\u0018\u00002\u000e\u0012\u0004\u0012\u00020\u0002\u0012\u0004\u0012\u00020\u00030\u0001:\u0002\u000e\u000fB\u0005\u00a2\u0006\u0002\u0010\u0004J\u0018\u0010\u0005\u001a\u00020\u00062\u0006\u0010\u0007\u001a\u00020\u00032\u0006\u0010\b\u001a\u00020\tH\u0016J\u0018\u0010\n\u001a\u00020\u00032\u0006\u0010\u000b\u001a\u00020\f2\u0006\u0010\r\u001a\u00020\tH\u0016\u00a8\u0006\u0010"}, d2 = {"Lcom/example/jacksoncollection/adapter/AlbumsAdapter;", "Landroidx/recyclerview/widget/ListAdapter;", "Lcom/example/jacksoncollection/base/domain/response/Album;", "Landroidx/recyclerview/widget/RecyclerView$ViewHolder;", "()V", "onBindViewHolder", "", "holder", "position", "", "onCreateViewHolder", "parent", "Landroid/view/ViewGroup;", "viewType", "AlbumsDiffCallBack", "AlbumsHolder", "app_debug"})
 public final class AlbumsAdapter extends androidx.recyclerview.widget.ListAdapter<com.example.jacksoncollection.base.domain.response.Album, androidx.recyclerview.widget.RecyclerView.ViewHolder> {
     
